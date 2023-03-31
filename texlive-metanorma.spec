@@ -1,6 +1,6 @@
 Name:		texlive-metanorma
 Version:	55010
-Release:	1
+Release:	2
 Summary:	Write Metanorma standardization documents using LaTe
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metanorma
