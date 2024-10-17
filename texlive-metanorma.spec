@@ -3,7 +3,7 @@ Version:	55010
 Release:	2
 Summary:	Write Metanorma standardization documents using LaTe
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metanorma
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/metanorma
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metanorma.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metanorma.doc.r%{version}.tar.xz
